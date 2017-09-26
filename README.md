@@ -1,2 +1,2 @@
 # 15-puzzles
-just a game.
+A game that constructed by html,css and js.
